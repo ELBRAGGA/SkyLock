@@ -1,4 +1,4 @@
-# SkyLock Security Platform
+# SkyLock
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-3.0-green.svg)](https://flask.palletsprojects.com/)
@@ -203,7 +203,7 @@ MIT License - Use freely for learning and portfolios
 
 **Yahya Elbragga**
 - GitHub: [@ELBRAGGA](https://github.com/ELBRAGGA)
-- Project: [SkyLock Security Platform](https://github.com/ELBRAGGA/SkyLock)
+- Project: [SkyLock](https://github.com/ELBRAGGA/SkyLock)
 
 ## ⭐ Support
 
